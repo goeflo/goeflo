@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goeflo
-- 👀 I’m interested in all new linux and programming stuff
+- 👀 I’m interested in linux shenanigans and programming stuff
 - 🌱 I’m currently learning always new things
 - 📫 How to reach me ...
 
